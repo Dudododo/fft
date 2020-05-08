@@ -6,7 +6,7 @@ using namespace cv;
 
 std::vector<Point>  mousePoints;
 Point points;
-
+ 
 //鼠标响应函数
 void on_mouse(int EVENT, int x, int y, int flags, void* userdata)
 {
